@@ -1,0 +1,4 @@
+#Mon May 18 17:42:06 CST 2020
+base.0=E\:\\Graduation_thesis\\CataractDetectionApp-UsingCNN-NeuralNetwork-master\\CataractDetectionApp-UsingCNN-NeuralNetwork-master\\AndroidApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

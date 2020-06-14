@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+    <resources>
+
+    <string name="app_name">白内障检测</string>
+
+    <string name="app_name_zn">白内障检测</string>
+
+    <string name="appKey">ec4bfd0e74d96e44efad66ed</string>
+
+    <string name="sp">sp</string>
+
+    <string name="SP_isFirstOpen">SP_isFirstOpen</string>
+
+    <string name="SP_account">sp_account</string>
+
+    <string name="SP_name">sp_name</string>
+
+    <string name="SP_pwd">sp_pwd</string>
+
+    <string name="SP_token">sp_token</string>
+
+    <string name="SP_birthday">sp_tbirthday</string>
+
+    <string name="SP_profession">sp_profession</string>
+
+    <string name="SP_tel">sp_tel</string>
+
+    <string name="SP_sex">sp_sex</string>
+
+    <string name="SP_role">sp_role</string>
+
+    <string name="SP_email">sp_email</string>
+
+    <string name="SP_userpic">sp_userpic</string>
+
+    <string name="SP_userid">sp_userid</string>
+
+    <string name="SP_isLogin">sp_islogin</string>
+
+    <string name="SP_theme">sp_theme</string>
+
+    <string name="SP_push">sp_push</string>
+
+    <string name="SP_savedata">sp_savedata</string>
+
+    <string name="voice_start">录音</string>
+
+    <string name="voice_stop">停止</string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="service_text"> 隐私政策\n 本应用尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。但本应用将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。 您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于本应用服务使用协议不可分割的一部分。\n1.适用范围\n(a) 在您注册本应用帐号时，您根据本应用要求提供的个人注册信息；\n(b) 在您使用本应用网络服务，或访问本应用平台网页时，本应用自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；\n 本应用通过合法途径从商业伙伴处取得的用户个人数据。您了解并同意，以下信息不适用本隐私权政策：\n(a) 您在使用本应用平台提供的搜索服务时输入的关键字信息；\n(b) 本应用收集到的您在本应用发布的有关信息数据，包括但不限于参与活动、成交信息及评价详情；\n © 违反法律规定或违反本应用规则行为及本应用已对您采取的措施。\n2.信息使用\n(a)本应用不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和本应用（含本应用关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。\n(b) 本应用亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何本应用平台用户如从事上述活动，一经发现，本应用有权立即终止与该用户的服务协议。\n © 为服务用户的目的，本应用可能通过使用您的个人信息，向您提供您感兴趣的信息，包括但不限于向您发出产品和服务信息，或者与本应用合作伙伴共享信息以便他们向您发送有关其产品和服务的信息（后者需要您的事先同意）。\n3.信息披露\n 在如下情况下，本应用将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息：\n(a) 经您事先同意，向第三方披露；\n(b)为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；\n © 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；\n(d) 如您出现违反中国有关法律、法规或者本应用服务协议或相关规则的情况，需要向第三方披露；\n(e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；\n(f) 在本应用平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的，本应用有权决定向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。\n(g) 其它本应用根据法律、法规或者网站政策认为合适的披露。\n4.信息存储和交换\n 本应用收集的有关您的信息和资料将保存在本应用及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或本应用收集信息和资料所在地的境外并在境外被访问、存储和展示。\n5.Cookie的使用\n(a) 在您未拒绝接受cookies的情况下，本应用会在您的计算机上设定或取用cookies ，以便您能登录或使用依赖于cookies的本应用平台服务或功能。本应用使用cookies可为您提供更加周到的个性化服务，包括推广服务。\n(b) 您有权选择接受或拒绝接受cookies。您可以通过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies，则您可能无法登录或使用依赖于cookies的本应用网络服务或功能。\n © 通过本应用所设cookies所取得的有关信息，将适用本政策。\n6.信息安全 (a) 本应用帐号均有安全保护功能，请妥善保管您的用户名及密码信息。本应用将通过对用户密码进行加密等安全措施确保您的信息不丢失，不被滥用和变造。尽管有前述安全措施，但同时也请您注意在信息网络上不存在“完善的安全措施”。\n(b) 在使用本应用网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对\n7.本隐私政策的更改 (a)如果决定更改隐私政策，我们会在本政策中、本公司网站中以及我们认为适当的位置发布这些更改，以便您了解我们如何收集、使用您的个人信息，哪些人可以访问这些信息，以及在什么情况下我们会透露这些信息。\n(b)本公司保留随时修改本政策的权利，因此请经常查看。如对本政策作出重大更改，本公司会通过网站通知的形式告知。\n 请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是本应用用户名及密码发生泄露，请您立即联络本应用客服，以便本应用采取相应措施。\n 如您对本政策或其他相关事宜有疑问，请通过 https://angelcure.com 与我们联系。您也可将您的问题发送至1195593460@qq.com </string>
+
+    <string name="large_text">"Material is the metaphor.\n\n""A material metaphor is the unifying theory of a rationalized space and a system of motion.""The material is grounded in tactile reality, inspired by the study of paper and ink, yet ""technologically advanced and open to imagination and magic.\n""Surfaces and edges of the material provide visual cues that are grounded in reality. The ""use of familiar tactile attributes helps users quickly understand affordances. Yet the ""flexibility of the material creates new affordances that supercede those in the physical ""world, without breaking the rules of physics.\n""The fundamentals of light, surface, and movement are key to conveying how objects move, ""interact, and exist in space and in relation to each other. Realistic lighting shows ""seams, divides space, and indicates moving parts.\n\n""Bold, graphic, intentional.\n\n""The foundational elements of print based design typography, grids, space, scale, color, ""and use of imagery guide visual treatments. These elements do far more than please the ""eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge ""imagery, large scale typography, and intentional white space create a bold and graphic ""interface that immerse the user in the experience.\n""An emphasis on user actions makes core functionality immediately apparent and provides ""waypoints for the user.\n\n""Motion provides meaning.\n\n""Motion respects and reinforces the user as the prime mover. Primary user actions are ""inflection points that initiate motion, transforming the whole design.\n""All action takes place in a single environment. Objects are presented to the user without ""breaking the continuity of experience even as they transform and reorganize.\n""Motion is meaningful and appropriate, serving to focus attention and maintain continuity. ""Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n""3D world.\n\n""The material environment is a 3D space, which means all objects have x, y, and z ""dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the ""positive z-axis extending towards the viewer. Every sheet of material occupies a single ""position along the z-axis and has a standard 1dp thickness.\n""On the web, the z-axis is used for layering and not for perspective. The 3D world is ""emulated by manipulating the y-axis.\n\n""Light and shadow.\n\n""Within the material environment, virtual lights illuminate the scene. Key lights create ""directional shadows, while ambient light creates soft shadows from all angles.\n""Shadows in the material environment are cast by these two light sources. In Android ""development, shadows occur when light sources are blocked by sheets of material at ""various positions along the z-axis. On the web, shadows are depicted by manipulating the ""y-axis only. The following example shows the card with a height of 6dp.\n\n""Resting elevation.\n\n""All material objects, regardless of size, have a resting elevation, or default elevation ""that does not change. If an object changes elevation, it should return to its resting ""elevation as soon as possible.\n\n""Component elevations.\n\n""The resting elevation for a component type is consistent across apps (e.g., FAB elevation ""does not vary from 6dp in one app to 16dp in another app).\n""Components may have different resting elevations across platforms, depending on the depth ""of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n""Responsive elevation and dynamic elevation offsets.\n\n""Some component types have responsive elevation, meaning they change elevation in response ""to user input (e.g., normal, focused, and pressed) or system events. These elevation ""changes are consistently implemented using dynamic elevation offsets.\n""Dynamic elevation offsets are the goal elevation that a component moves towards, relative ""to the component’s resting state. They ensure that elevation changes are consistent ""across actions and component types. For example, all components that lift on press have ""the same elevation change relative to their resting elevation.\n""Once the input event is completed or cancelled, the component will return to its resting ""elevation.\n\n""Avoiding elevation interference.\n\n""Components with responsive elevations may encounter other components as they move between ""their resting elevations and dynamic elevation offsets. Because material cannot pass ""through other material, components avoid interfering with one another any number of ways, ""whether on a per component basis or using the entire app layout.\n""On a component level, components can move or be removed before they cause interference. ""For example, a floating action button (FAB) can disappear or move off screen before a ""user picks up a card, or it can move if a snackbar appears.\n""On the layout level, design your app layout to minimize opportunities for interference. ""For example, position the FAB to one side of stream of a cards so the FAB won’t interfere ""when a user tries to pick up one of cards.\n\n" </string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">开启抽屉</string>
+
+    <string name="drawer_close">关闭抽屉</string>
+
+    <string name="s_pic">pic</string>
+
+    <string name="s_news_title">newsTitle</string>
+
+    <string name="s_news_content">newsContent</string>
+
+    <string name="s_drug_name">drugname</string>
+
+    <string name="s_main_cv_track">maincvtrack</string>
+
+    <string name="s_drug_name_cv">drugnamecv</string>
+
+    <string name="s_dis_name">disname</string>
+
+    <string name="s_dis_name_cv">disnamecv</string>
+
+    <string name="s_treatment_name">treatmentname</string>
+
+    <string name="s_treatment_cv">treatmentcv</string>
+
+    <string name="s_news_pic">newspic</string>
+
+    <string name="s_news_layout">news_layout</string>
+
+    <string name="string_dialog">友情即良药，我们都是彼此的医生</string>
+
+    <string name="news_sample">我们以前讲过，养胃的关键就俩字：不作。 只要注意饮食规律、食物均衡、用餐卫生， 胃就不会有大问题。坊间流传过很多养胃 食物榜单，今天来做个大盘点。 1. 大米粥 大米粥中主要是充分熬到糊化了的淀粉， 蛋白含量低，几乎没脂肪，又是流食状态， 消化速度很快的，在消化功能较差时喝， 胃也不会有负担。 所以，在觉得「吃不动饭时」或者连续「 大鱼大肉后」，喝点清淡的大米粥调节饮食 ，对于胃是有一定益处的。 养胃建议： （1）不要常年以粥为主食 胃不舒服时，喝粥能养养；但胃没有什么 问题时，不要长期总是以粥为主食。 1. 大米粥 大米粥中主要是充分熬到糊化了的淀粉， 蛋白含量低，几乎没脂肪，又是流食状态， 消化速度很快的，在消化功能较差时喝， 胃也不会有负担。 所以，在觉得「吃不动饭时」或者连续「 大鱼大肉后」，喝点清淡的大米粥调节饮食 ，对于胃是有一定益处的。 养胃建议： （1）不要常年以粥为主食 胃不舒服时，喝粥能养养；但胃没有什么 问题时，不要长期总是以粥为主食。 </string>
+
+    <string name="title_activity_friends">ActivityFriends</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+
+
+    <string name="messages_header">Messages</string>
+
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+
+
+    <string name="signature_title">Your signature</string>
+
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+
+
+    <string name="sync_title">Sync email periodically</string>
+
+    <string name="attachment_title">Download incoming attachments</string>
+
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails </string>
+
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+</resources>

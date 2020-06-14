@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button_image"
+        android:layout_width="420dp"
+        android:layout_height="300dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginRight="11dp"
+        android:background="@drawable/camera"
+        android:gravity="bottom|center"
+        android:onClick="takepicture"
+        android:text="点击图片进行白内障检测"
+        android:textSize="30dp"
+        />
+
+    <ScrollView
+        android:layout_width="420dp"
+        android:layout_height="502dp"
+        android:layout_marginTop="305dp">
+
+        <TextView
+            android:id="@+id/text_eye"
+            android:layout_width="370dp"
+            android:layout_height="1500dp"
+            android:layout_marginTop="30dp"
+            android:background="#F5DEB3"
+            android:fontFamily="casual"
+            android:textSize="20dp" />
+
+    </ScrollView>
+
+</RelativeLayout>
